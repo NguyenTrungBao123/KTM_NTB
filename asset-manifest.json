@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KTM_NTB/static/css/main.24c13c7f.css",
+    "main.js": "/KTM_NTB/static/js/main.e16a261d.js",
+    "index.html": "/KTM_NTB/index.html",
+    "main.24c13c7f.css.map": "/KTM_NTB/static/css/main.24c13c7f.css.map",
+    "main.e16a261d.js.map": "/KTM_NTB/static/js/main.e16a261d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24c13c7f.css",
+    "static/js/main.e16a261d.js"
+  ]
+}
